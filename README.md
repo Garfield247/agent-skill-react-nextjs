@@ -2,6 +2,9 @@
 
 本目录集中管理由 Antigravity / Gemini AI 驱动的所有独立开源技能仓库与中央索引库，方便日常本地查看、手动编辑、演进与 Git 提交。
 
+## ⚡ 理论基石与架构优化手册
+- 📘 **[Agent Optima (`../agent-optima`)](https://github.com/Garfield247/agent-optima)** — AI Agent 架构优化与多生态生产工程手册 (长会话抗腐化 / 上下文防混乱 / Token 极致能效)
+
 ## 📂 仓库全景目录
 
 ### 1. 技能元治理与索引中心
